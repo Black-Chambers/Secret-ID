@@ -32,6 +32,9 @@ Examples include:
 - Digital Certificates
 - MIME
 - BASE64
+- ISO dates/time
+- ISO countries
+- ISO keyboards
 - 
 
 -----
