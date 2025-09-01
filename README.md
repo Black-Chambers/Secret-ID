@@ -22,8 +22,17 @@ Examples include:
 - US topographical map grids
 - US Currency (notes) serial numbers
 - Musical notes (A-G)
+- 10-codes (e.g. 10-4)
+- QRZ, 73
+- IP addresses v4, v6
+- Network port numbers (1-65535?)
+- MAC addresses
+- Disk Drive volune ID (4 hex dash 4 hex)
+- Bitlocker recovery key
+- Digital Certificates
+- MIME
+- BASE64
 - 
-
 
 -----
 
