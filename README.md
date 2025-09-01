@@ -36,7 +36,8 @@ Examples include:
 - ISO countries
 - ISO keyboards
 - SWIFT and ABA routing codes
-- 
+- Credit Card numbers
+- Lot production codes (e.g. year, week number)
 
 -----
 
