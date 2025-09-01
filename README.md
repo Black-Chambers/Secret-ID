@@ -8,7 +8,21 @@ Examples include:
 - passwords
 - API tokens
 - SSH keys
-
+- Master Lock combination
+- GPS coordinates
+- Maidenhead grid squares
+- SSN
+- Shipping containers
+- Telephone numbers (various countries)
+- Package (postal) tracking numbers
+- Postal (zip) codes
+- Alien registration number
+- Passport number
+- PIN (4 or 6 digit)
+- US topographical map grids
+- US Currency (notes) serial numbers
+- Musical notes (A-G)
+- 
 
 
 -----
