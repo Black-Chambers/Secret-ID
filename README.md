@@ -35,6 +35,7 @@ Examples include:
 - ISO dates/time
 - ISO countries
 - ISO keyboards
+- SWIFT and ABA routing codes
 - 
 
 -----
